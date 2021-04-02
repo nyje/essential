@@ -1,0 +1,27 @@
+V 0.2
+
+Added: naginata
+Added: Death's scythe
+Added: Kukri
+Added: Shortsword
+Added: thorny sword
+Added: Glass shard in paper
+Added: Longsword
+Added: Moreores exclusive weapons- (athame,Dragon GreatSword,GreatSword)
+
+v 0.3
+
+Added: large candycane
+Added: Crystal sword
+Added: Diamond shard greatsword
+Added: Thor's hammer
+Added: Huge ham
+Added: Crystal knife
+Added: Golden hammer
+Added: Golden sickle
+Added: Frying pan
+Added: Monk's staff
+Added: Broken glass bottle
+Fixed: Now "Bloody knife" has the propper texture again
+
+*There's also an easter egg now! can you find it, comrade ?
